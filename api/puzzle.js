@@ -5,7 +5,7 @@ export default function handler(req, res) {
     noSpaces: "INTHEBEGINNING",
     meta: {
       source: "Genesis 1:1",
-      genre: "Biblical"
+      genre: "Biblical 2"
     }
   });
 }
